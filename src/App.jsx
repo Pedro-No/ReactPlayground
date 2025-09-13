@@ -1,6 +1,4 @@
 import { useEffect, useState } from "react";
-import UploadButton from "./components/upload-button/upload-button";
-import UploadImageResizer from "./components/upload-image/upload-image-resizer";
 
 export default function App() {
   return (
